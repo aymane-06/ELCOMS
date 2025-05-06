@@ -34,7 +34,7 @@
                             <div class="tp-caption sfr tp-resizeme letter-space-4" 
                                 data-x="left" data-hoffset="0" 
                                 data-y="center" data-voffset="180" 
-                                data-frames='[{"delay":2200,"speed":2000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#." class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#." class="el-btn-regular btn btn-primary color-bg">Contact us</a>
+                                data-frames='[{"delay":2200,"speed":2000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#services" class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#about-Company" class="el-btn-regular btn btn-primary color-bg">Contact us</a>
                             </div>
                         </li>
 
@@ -66,7 +66,7 @@
                             <div class="tp-caption lfb tp-resizeme" 
                                 data-x="center" data-hoffset="0" 
                                 data-y="center" data-voffset="180" 
-                                data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#." class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#." class="el-btn-regular btn btn-primary color-bg">Contact us</a>
+                                data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#services" class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#about-Company" class="el-btn-regular btn btn-primary color-bg">Contact us</a>
                             </div>
                         </li>
                         <li data-transition="random" data-title="Slide Title" data-param1="Additional Text" data-thumb="{{ asset('assets/images/heroSection/hero3.jpeg') }}">
@@ -97,7 +97,7 @@
                             <div class="tp-caption lfb tp-resizeme" 
                                 data-x="center" data-hoffset="0" 
                                 data-y="center" data-voffset="180" 
-                                data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#." class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#." class="el-btn-regular btn btn-primary color-bg">Contact us</a>
+                                data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#services" class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#about-Company" class="el-btn-regular btn btn-primary color-bg">Contact us</a>
                             </div>
                         </li>
                         <li data-transition="random" data-title="Slide Title" data-param1="Additional Text" data-thumb="{{ asset('assets/images/heroSection/hero4.jpeg') }}">
@@ -128,7 +128,7 @@
                             <div class="tp-caption lfb tp-resizeme" 
                                 data-x="center" data-hoffset="0" 
                                 data-y="center" data-voffset="180" 
-                                data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#." class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#." class="el-btn-regular btn btn-primary color-bg">Contact us</a>
+                                data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'><a href="#services" class="el-btn-regular slider-btn-left btn btn-primary">Discover our services</a> <a href="#about-Company" class="el-btn-regular btn btn-primary color-bg">Contact us</a>
                             </div>
                         </li>
                     </ul>
@@ -275,7 +275,7 @@
 
 
 
-        <section class="finance-service-section section-padding">
+        <section id="services" class="finance-service-section section-padding">
             <div class="container text-center">
             <div class="section-title">
                 <h2>Our Services</h2>
@@ -383,7 +383,7 @@
 
 
 
-        <section class="about-Company-Section section-padding">
+        <section id="about-Company" class="about-Company-Section section-padding">
             <div class="container">
                 <div class="section-title text-center">
                     <h2>About ELCOMS</h2>

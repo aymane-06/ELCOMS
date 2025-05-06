@@ -29,7 +29,11 @@
         <link href="assets/css/offcanvas-menu.css" rel="stylesheet" type="text/css">
         <!-- style-css -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-
+        <style>
+            *{
+                scroll-behavior: smooth;
+            }
+        </style>
     </head>
     <body class="homePageOne">
         <!-- start preloader -->
@@ -85,7 +89,7 @@
                 <div class="navbar-inner">
                     <div class="container">
                         <div class="navbar-header">
-                            <a class="navbar-brand" href="index.html"><img width="100" src="{{ asset("assets/images/logo/logo-removebg-preview.png") }}" alt="image"></a>
+                            <a class="navbar-brand" href=""><img width="100" src="{{ asset("assets/images/logo/logo-removebg-preview.png") }}" alt="image"></a>
                         </div>
 
                         <div class="collapse navbar-collapse navbar-right">
@@ -94,22 +98,22 @@
                                     
                                 </li>
 
-                                <li><a href="about.html">About</a></li>
+                                <li><a href="">About</a></li>
 
                                 <li class="dropdown"><a href="#">Service <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="service.html">All Services</a></li>
-                                        <li><a href="service-one.html">Service-One</a></li>
-                                        <li><a href="service-two.html">Service-Two</a></li>
-                                        <li><a href="service-three.html">Service-Three</a></li>
-                                        <li><a href="service-four.html">Service-Four</a></li>
+                                        <li><a href="">All Services</a></li>
+                                        <li><a href="service-">Service-One</a></li>
+                                        <li><a href="service-">Service-Two</a></li>
+                                        <li><a href="service-">Service-Three</a></li>
+                                        <li><a href="service-">Service-Four</a></li>
                                     </ul>
                                 </li>
 
                                 <li class="dropdown"><a href="#">Projects </a>
                                     
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="#about-Company">Contact</a></li>
 
                                 <li>
                                     <div class="search-view">
@@ -211,57 +215,32 @@
 
             <ul class="menu-wrapper">
                 <li>
-                    <a class="active dropmenu" href="#">Home <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                        <ul class="dropDown sub-menu">
-                            <li><a class="active" href="index.html">Home One</a></li>
-                            <li><a href="index-two.html">Home Two</a></li>
-                            <li><a href="index-three.html">Home Three</a></li>
-                            <li><a href="index-four.html">Home Four</a></li>
-                            <li><a href="index-five.html">Home Five</a></li>
-                            <li><a href="index-six.html">Home Six</a></li>
-                        </ul><!-- end of dropdown -->
+                    <a class="active dropmenu" href="#">Home</a>
+                        <!-- end of dropdown -->
                 </li><!-- end of li -->
 
-                <li><a href="about.html">About</a></li><!-- end of li -->
+                <li><a href="">About</a></li><!-- end of li -->
                 
 
                 <li>
                     <a class="dropmenu" href="#">Service <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                     <ul class="dropDown sub-menu">
-                        <li><a href="service.html">All Services</a></li>
-                        <li><a href="service-one.html">Service-One</a></li>
-                        <li><a href="service-two.html">Service-Two</a></li>
-                        <li><a href="service-three.html">Service-Three</a></li>
-                        <li><a href="service-four.html">Service-Four</a></li>
+                        <li><a href="">All Services</a></li>
+                        <li><a href="service-">Service-One</a></li>
+                        <li><a href="service-">Service-Two</a></li>
+                        <li><a href="service-">Service-Three</a></li>
+                        <li><a href="service-">Service-Four</a></li>
                   </ul><!-- end of dropdown -->
                 </li><!-- end of li -->
 
                 <li>
-                    <a class="dropmenu" href="#">Project <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                    <ul class="dropDown sub-menu">
-                        <li><a href="project.html">Project 4 col</a></li>
-                        <li><a href="project-three.html">Project 3 col</a></li>
-                        <li><a href="project-two.html">Project 2 col</a></li>
-                        <li><a href="single-project.html">Single Project</a></li>
-                    </ul><!-- end of dropdown -->
+                    <a class="dropmenu" href="#">Projects</a>
+                    <!-- end of dropdown -->
                 </li><!-- end of li -->
 
-                <li>
-                    <a class="dropmenu" href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                    <ul class="dropDown sub-menu">
-                        <li><a href="career.html">Career</a></li>
-                        <li><a href="faq.html">Faq</a></li>
-                        <li><a href="partner.html">Partner</a></li>
-                        <li><a href="team.html">Team</a></li>
-                        <li><a href="testimonial.html">Testimonial</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="single-blog.html">Single Blog</a></li>
-                        <li><a href="shop.html">Shop</a></li>
-                        <li><a href="cart.html">Cart</a></li>
-                    </ul><!-- end of dropdown -->
-                </li><!-- end of li -->
+                <!-- end of li -->
 
-                <li><a href="contact.html">Contact</a></li><!-- end of li -->
+                <li><a href="#about-Company">Contact</a></li><!-- end of li -->
             </ul> <!-- menu-wrapper -->      
         </div>
         <!-- Off-Canvas View Only -->
@@ -299,5 +278,5 @@
         <script src="assets/js/script.js"></script>
     </body>
 
-<!-- Mirrored from html.themexriver.com/consulting/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 06 May 2025 09:46:19 GMT -->
+<!-- Mirrored from html.themexriver.com/consulting/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 06 May 2025 09:46:19 GMT -->
 </html>
