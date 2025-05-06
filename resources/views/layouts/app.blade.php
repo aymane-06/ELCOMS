@@ -10,7 +10,7 @@
 	<meta name="author" content="Themexriver">
         <title>Consulting - Business, Finance and Professional Services HTML 5 Template</title>
         <!-- fav icon -->
-        <link href="assets/images/favicon.png" rel="shortcut icon" type="image/png">
+        <link href="{{asset('assets/images/logo/logo-removebg-preview.png')}}" rel="shortcut icon" type="image/png">
 
         <!-- Bootstrap -->
         <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
