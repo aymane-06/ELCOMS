@@ -60,7 +60,9 @@
     right: 0;
     top: 50%;
     margin: -15px auto 0;
-	background: url(../images/logo-m.png) no-repeat;
+	background: url(../images/logo/logo-removebg-preview.png) no-repeat;
+	background-size: contain;
+	background-position: center;
 }
 
 #offcanvas-menu .close-menu {
