@@ -110,7 +110,7 @@
                                     </ul>
                                 </li>
 
-                                <li class="dropdown"><a href="#">Projects </a>
+                                <li class="dropdown"><a href="#projects">Projects </a>
                                     
                                 </li>
                                 <li><a href="#about-Company">Contact</a></li>
@@ -234,7 +234,7 @@
                 </li><!-- end of li -->
 
                 <li>
-                    <a class="dropmenu" href="#">Projects</a>
+                    <a class="dropmenu" href="#projects">Projects</a>
                     <!-- end of dropdown -->
                 </li><!-- end of li -->
 

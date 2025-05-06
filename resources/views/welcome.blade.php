@@ -478,7 +478,7 @@
 
 
 
-        <section class="project-section section-padding">
+        <section id="projects" class="project-section section-padding">
             <div class="container text-center">
                 <div class="section-title">
                     <h2>Our Projects</h2>
