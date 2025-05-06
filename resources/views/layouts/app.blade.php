@@ -5,9 +5,10 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Consulting Finance Corporate Business - Consulting HTML Template">
-	<meta name="keywords" content="consulting, accountant, advisor, audit, beaver builder, broker, business, clean, company, consulting, corporate, finance, financial, insurance, trader">
-	<meta name="author" content="Themexriver">
+        <meta name="description" content="ELCOMS - Owner's Representative Services, Construction Management, Project Management and Scheduling services in Morocco">
+    <meta name="keywords" content="ELCOMS, Construction Management, Owner's Representative Services, Project Management, Scheduling, Construction Coordination, Construction Control, MOE, Consulting, Engineering, Rabat, Morocco">
+	<meta name="author" content="ElCOMS">
+        <meta name="robots" content="index, follow">
         <title>Consulting - Business, Finance and Professional Services HTML 5 Template</title>
         <!-- fav icon -->
         <link href="{{asset('assets/images/logo/logo-removebg-preview.png')}}" rel="shortcut icon" type="image/png">
